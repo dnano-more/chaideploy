@@ -1,0 +1,21 @@
+{
+  "name": "chaideploy",
+  "version": "1.0.0",
+  "description": "A basic app to deploy",
+  "keywords": [
+    "node",
+    "backend",
+    "deploy"
+  ],
+  "license": "ISC",
+  "author": "dnano-dev",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
